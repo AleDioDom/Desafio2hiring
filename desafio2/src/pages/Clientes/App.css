@@ -1,0 +1,27 @@
+.App-cliente{
+  font-size: 10vh;
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.App-form{
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  border-style: initial;
+}
+
+
+
+.App-color {
+  background-color: #282c34;
+  height: 100vh;
+  width: 100%;
+}
